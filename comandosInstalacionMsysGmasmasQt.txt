@@ -1,3 +1,5 @@
 comando para instalar msys2: https://github.com/msys2/msys2-installer/releases/download/2024-12-08/msys2-x86_64-20241208.exe
 comando para instalar g++: pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain
 comando pera instalar qt6: pacman -S --needed mingw-w64-ucrt-x86_64-qt6 mingw-w64-ucrt-x86_64-qt6-base mingw-w64-ucrt-x86_64-qt6-declarative mingw-w64-ucrt-x86_64-qt6-tools mingw-w64-ucrt-x86_64-qt6-svg mingw-w64-ucrt-x86_64-qt6-websockets
+
+C:\msys64\ucrt64\bin
