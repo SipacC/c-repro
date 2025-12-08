@@ -15,3 +15,26 @@ tambien:
 - pugixml
 
 pacman -S --needed mingw-w64-ucrt-x86_64-poppler mingw-w64-ucrt-x86_64-poppler-qt6 mingw-w64-ucrt-x86_64-libxlsxwriter mingw-w64-ucrt-x86_64-rapidjson mingw-w64-ucrt-x86_64-pugixml
+
+cosas instaladas
+ Compilación
+g++     # GCC C++
+clang++ # Clang C++
+cmake   # Sistema de build
+ninja   # Build rápido
+make    # Make tradicional
+
+Qt
+qmake6           # Build Qt
+designer-qt6     # Editor UI
+linguist-qt6     # Traducciones
+
+Herramientas
+gdb              # Debugger
+doxygen          # Documentación
+cppcheck         # Análisis código
+ccache           # Cache compilación
+
+Utilidades
+openssl          # Criptografía
+sqlite3          # Base de datos
